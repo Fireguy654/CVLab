@@ -1,0 +1,8 @@
+data/images/train/IMG_8719.png
+data/images/train/IMG_8720.png
+data/images/train/IMG_8721.png
+data/images/train/IMG_8722.png
+data/images/train/IMG_8725.png
+data/images/train/IMG_8726.png
+data/images/train/IMG_8727.png
+data/images/train/IMG_8728.png

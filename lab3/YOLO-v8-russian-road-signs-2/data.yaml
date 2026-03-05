@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['object', 'road sign']
+
+roboflow:
+  workspace: s-workspace-plrha
+  project: yolo-v8-russian-road-signs-yj4ow
+  version: 2
+  license: MIT
+  url: https://universe.roboflow.com/s-workspace-plrha/yolo-v8-russian-road-signs-yj4ow/dataset/2
